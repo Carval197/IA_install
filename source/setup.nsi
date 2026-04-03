@@ -12,7 +12,7 @@
 !define PRODUCT_NAME "Controller Application"
 !define EXE_NAME "IA"
 #!define PRODUCT_VERSION "1.24"
-!define PRODUCT_VERSION "2.01"
+!define PRODUCT_VERSION "2.02"
 !define PRODUCT_DIR_REGKEY "Software\Microsoft\Windows\CurrentVersion\App Paths\${PRODUCT_NAME}.exe"
 !define PRODUCT_UNINST_KEY "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}"
 !define PRODUCT_UNINST_ROOT_KEY "HKLM"
